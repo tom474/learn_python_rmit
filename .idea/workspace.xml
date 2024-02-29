@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1a1207a-9310-4793-8b94-50d66cf35fad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/learn_python_rmit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w1_introduction/HelloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w1_introduction/Triangle.py" afterDir="false" />
+    <list default="true" id="f1a1207a-9310-4793-8b94-50d66cf35fad" name="Changes" comment="update week1">
+      <change afterPath="$PROJECT_DIR$/w2_simple_python_data/AreaOfACircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w2_simple_python_data/AreaOfATriangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +37,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.AreaOfACircle.executor": "Run",
     "Python.HelloWorld.executor": "Run",
+    "Python.Triangle.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,11 +66,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709169088940</updated>
-      <workItem from="1709169090752" duration="910000" />
+      <workItem from="1709169090752" duration="1275000" />
     </task>
+    <task id="LOCAL-00001" summary="update week1">
+      <option name="closed" value="true" />
+      <created>1709171131834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709171131834</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update week1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update week1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learn_python_rmit$AreaOfACircle.coverage" NAME="AreaOfACircle Coverage Results" MODIFIED="1709171371095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2_simple_python_data" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1709170840763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w1_introduction" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$Triangle.coverage" NAME="Triangle Coverage Results" MODIFIED="1709171384164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w1_introduction" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$CollatzSequence.coverage" NAME="CollatzSequence Coverage Results" MODIFIED="1709171474584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2_simple_python_data" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$AreaOfATriangle.coverage" NAME="AreaOfATriangle Coverage Results" MODIFIED="1709171428981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2_simple_python_data" />
   </component>
 </project>
