@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1a1207a-9310-4793-8b94-50d66cf35fad" name="Changes" comment="update week4">
-      <change afterPath="$PROJECT_DIR$/w6_strings/Digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w6_strings/MultiplicationTable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w6_strings/Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w6_strings/RemoveLetter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w6_strings/RemoveSubstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w6_strings/ReverseString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w6_strings/SubstitutionCipher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w6_strings/SubstitutionDecipher.py" afterDir="false" />
+    <list default="true" id="f1a1207a-9310-4793-8b94-50d66cf35fad" name="Changes" comment="update week6">
+      <change afterPath="$PROJECT_DIR$/w8_Lists/FilterEvenNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w8_Lists/SortingAlphabetically.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w8_Lists/SquareOfEvenNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w8_Lists/TwoDimensionalArray.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +46,7 @@
     "Python.Digits.executor": "Run",
     "Python.EquilateralTriangle.executor": "Run",
     "Python.Even.executor": "Run",
+    "Python.FilterEvenNumber.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "Python.Hexagon.executor": "Run",
     "Python.LeapYear.executor": "Run",
@@ -66,10 +63,13 @@
     "Python.RemoveSubstring.executor": "Run",
     "Python.ReverseString.executor": "Run",
     "Python.S3974735.executor": "Run",
+    "Python.SortingAlphabetically.executor": "Run",
     "Python.Square.executor": "Run",
     "Python.Star.executor": "Run",
     "Python.SubstitutionCipher.executor": "Run",
+    "Python.SubstitutionDecipher.executor": "Run",
     "Python.Triangle.executor": "Run",
+    "Python.TwoDimensionalArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -130,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709172870037</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update week6">
+      <option name="closed" value="true" />
+      <created>1709175080802</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709175080802</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +149,8 @@
     <MESSAGE value="update week2" />
     <MESSAGE value="update week3" />
     <MESSAGE value="update week4" />
-    <option name="LAST_COMMIT_MESSAGE" value="update week4" />
+    <MESSAGE value="update week6" />
+    <option name="LAST_COMMIT_MESSAGE" value="update week6" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/learn_python_rmit$CompoundInterest.coverage" NAME="CompoundInterest Coverage Results" MODIFIED="1709171540116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2_simple_python_data" />
@@ -150,6 +159,7 @@
     <SUITE FILE_PATH="coverage/learn_python_rmit$MultiplicationTable.coverage" NAME="MultiplicationTable Coverage Results" MODIFIED="1709174827285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w6_strings" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Factorial.coverage" NAME="Factorial Coverage Results" MODIFIED="1709173161983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w5_recursion" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Digits.coverage" NAME="Digits Coverage Results" MODIFIED="1709174783082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w6_strings" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$SubstitutionDecipher.coverage" NAME="SubstitutionDecipher Coverage Results" MODIFIED="1709175034153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w6_strings" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$SubstitutionCipher.coverage" NAME="SubstitutionCipher Coverage Results" MODIFIED="1709175005457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w6_strings" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$ReverseString.coverage" NAME="ReverseString Coverage Results" MODIFIED="1709174961264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w6_strings" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Clock.coverage" NAME="Clock Coverage Results" MODIFIED="1709172129557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
@@ -173,7 +183,10 @@
     <SUITE FILE_PATH="coverage/learn_python_rmit$TriangularNumber.coverage" NAME="TriangularNumber Coverage Results" MODIFIED="1709173322856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w5_recursion" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$CollatzSequence.coverage" NAME="CollatzSequence Coverage Results" MODIFIED="1709171474584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2_simple_python_data" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$RemoveLetter.coverage" NAME="RemoveLetter Coverage Results" MODIFIED="1709174894651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w6_strings" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$TwoDimensionalArray.coverage" NAME="TwoDimensionalArray Coverage Results" MODIFIED="1709175153807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w8_Lists" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$SortingAlphabetically.coverage" NAME="SortingAlphabetically Coverage Results" MODIFIED="1709187277368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w8_Lists" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$EquilateralTriangle.coverage" NAME="EquilateralTriangle Coverage Results" MODIFIED="1709172171471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$FilterEvenNumber.coverage" NAME="FilterEvenNumber Coverage Results" MODIFIED="1709175197493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w8_Lists" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Octagon.coverage" NAME="Octagon Coverage Results" MODIFIED="1709172215299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1709173188938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w5_recursion" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Power.coverage" NAME="Power Coverage Results" MODIFIED="1709173284001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w5_recursion" />
