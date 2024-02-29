@@ -4,28 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1a1207a-9310-4793-8b94-50d66cf35fad" name="Changes" comment="update week9">
-      <change afterPath="$PROJECT_DIR$/w10_dictionaries/CountLetter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w10_dictionaries/EnglishToPirate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w10_dictionaries/EnglishToPirate.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w10_dictionaries/FilterDictionary.py" afterDir="false" />
+    <list default="true" id="f1a1207a-9310-4793-8b94-50d66cf35fad" name="Changes" comment="update week10">
+      <change afterPath="$PROJECT_DIR$/labtest1/Question1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labtest1/Question2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labtest1/Question3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labtest1/Question4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labtest2/Question1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labtest2/Question2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labtest2/Question3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labtest2/Question4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labtest3/Question1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labtest3/Question2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labtest3/Question3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w11_oop/Circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w11_oop/student.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w8_Lists/FilterEvenNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/w8_lists/FilterEvenNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w8_Lists/SortingAlphabetically.py" beforeDir="false" afterPath="$PROJECT_DIR$/w8_lists/SortingAlphabetically.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w8_Lists/SquareOfEvenNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/w8_lists/SquareOfEvenNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w8_Lists/SquareOfNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/w8_lists/SquareOfNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w8_Lists/SquareOfOddNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/w8_lists/SquareOfOddNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w8_Lists/TwoDimensionalArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/w8_lists/TwoDimensionalArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w9_Files/AppendMessage.py" beforeDir="false" afterPath="$PROJECT_DIR$/w9_files/AppendMessage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w9_Files/CopyFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/w9_files/CopyFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w9_Files/DrawingCircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/w9_files/DrawingCircle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w9_Files/MessageFromTeacher.py" beforeDir="false" afterPath="$PROJECT_DIR$/w9_files/MessageFromTeacher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w9_Files/ReadMessage.py" beforeDir="false" afterPath="$PROJECT_DIR$/w9_files/ReadMessage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w9_Files/WriteMessage.py" beforeDir="false" afterPath="$PROJECT_DIR$/w9_files/WriteMessage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w9_Files/drawing/Circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/w9_files/drawing/Circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w9_Files/messages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/w9_files/messages.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w9_Files/teacher/messages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/w9_files/teacher/messages.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w9_Files/teacher/new_messages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/w9_files/teacher/new_messages.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +51,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.AreaOfACircle.executor": "Run",
     "Python.AreaOfATriangle.executor": "Run",
+    "Python.Circle.executor": "Run",
     "Python.Clock.executor": "Run",
     "Python.CollatzSequence.executor": "Run",
     "Python.CompoundInterest.executor": "Run",
@@ -68,10 +62,12 @@
     "Python.EnglishToPirate.executor": "Run",
     "Python.EquilateralTriangle.executor": "Run",
     "Python.Even.executor": "Run",
+    "Python.FilterDictionary.executor": "Run",
     "Python.FilterEvenNumber.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "Python.Hexagon.executor": "Run",
     "Python.LeapYear.executor": "Run",
+    "Python.MaxValue.executor": "Run",
     "Python.MessageFromTeacher.executor": "Run",
     "Python.MultiplicationTable.executor": "Run",
     "Python.Octagon.executor": "Run",
@@ -99,6 +95,7 @@
     "Python.TwoDimensionalArray.executor": "Run",
     "Python.WriteMessage.executor": "Run",
     "Python.circle.executor": "Run",
+    "Python.student.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -188,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709188403410</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update week10">
+      <option name="closed" value="true" />
+      <created>1709188837601</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709188837601</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +208,8 @@
     <MESSAGE value="update week6" />
     <MESSAGE value="update week8" />
     <MESSAGE value="update week9" />
-    <option name="LAST_COMMIT_MESSAGE" value="update week9" />
+    <MESSAGE value="update week10" />
+    <option name="LAST_COMMIT_MESSAGE" value="update week10" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/learn_python_rmit$Pattern.coverage" NAME="Pattern Coverage Results" MODIFIED="1709172791594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w4_function_iteration_selection" />
@@ -234,6 +240,7 @@
     <SUITE FILE_PATH="coverage/learn_python_rmit$PrintMessage.coverage" NAME="PrintMessage Coverage Results" MODIFIED="1709188311859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w9_Files" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$SortingAlphabetically.coverage" NAME="SortingAlphabetically Coverage Results" MODIFIED="1709187277368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w8_Lists" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$EquilateralTriangle.coverage" NAME="EquilateralTriangle Coverage Results" MODIFIED="1709172171471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$MaxValue.coverage" NAME="MaxValue Coverage Results" MODIFIED="1709188817529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w10_dictionaries" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$FilterEvenNumber.coverage" NAME="FilterEvenNumber Coverage Results" MODIFIED="1709175197493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w8_Lists" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$SquareOfEvenNumber.coverage" NAME="SquareOfEvenNumber Coverage Results" MODIFIED="1709187317054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w8_Lists" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1709173188938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w5_recursion" />
@@ -245,15 +252,18 @@
     <SUITE FILE_PATH="coverage/learn_python_rmit$SquareOfNumber.coverage" NAME="SquareOfNumber Coverage Results" MODIFIED="1709187376577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w8_Lists" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Triangle.coverage" NAME="Triangle Coverage Results" MODIFIED="1709171384164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w1_introduction" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$EnglishToPirate.coverage" NAME="EnglishToPirate Coverage Results" MODIFIED="1709188721682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w10_dictionaries" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$Circle.coverage" NAME="Circle Coverage Results" MODIFIED="1709188960119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w11_oop" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$OddOrEven.coverage" NAME="OddOrEven Coverage Results" MODIFIED="1709172724889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w4_function_iteration_selection" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Hexagon.coverage" NAME="Hexagon Coverage Results" MODIFIED="1709172195237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Print1000Times.coverage" NAME="Print1000Times Coverage Results" MODIFIED="1709172316653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$DrawingCircle.coverage" NAME="DrawingCircle Coverage Results" MODIFIED="1709187986043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w9_Files/teacher" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$TriangularNumber.coverage" NAME="TriangularNumber Coverage Results" MODIFIED="1709173322856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w5_recursion" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$FilterDictionary.coverage" NAME="FilterDictionary Coverage Results" MODIFIED="1709188785684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w10_dictionaries" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$CollatzSequence.coverage" NAME="CollatzSequence Coverage Results" MODIFIED="1709171474584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2_simple_python_data" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$RemoveLetter.coverage" NAME="RemoveLetter Coverage Results" MODIFIED="1709174894651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w6_strings" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$TwoDimensionalArray.coverage" NAME="TwoDimensionalArray Coverage Results" MODIFIED="1709175153807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w8_Lists" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Octagon.coverage" NAME="Octagon Coverage Results" MODIFIED="1709172215299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$student.coverage" NAME="student Coverage Results" MODIFIED="1709188928380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w11_oop" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Power.coverage" NAME="Power Coverage Results" MODIFIED="1709173284001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w5_recursion" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Even.coverage" NAME="Even Coverage Results" MODIFIED="1709172691744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w4_function_iteration_selection" />
   </component>
