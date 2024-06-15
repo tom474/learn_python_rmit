@@ -38,7 +38,7 @@ def eng_to_pirate(dict_path, sen):
 def main():
     """Main program"""
     string = input("Enter a english sentence: ")  # get input from user
-    print(eng_to_pirate("EnglishToPirate.txt", string))  # print the output
+    print(eng_to_pirate("english_to_pirate.txt", string))  # print the output
 
 
 main()

@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1a1207a-9310-4793-8b94-50d66cf35fad" name="Changes" comment="update week10">
-      <change afterPath="$PROJECT_DIR$/labtest1/Question1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labtest1/Question2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labtest1/Question3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labtest1/Question4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labtest2/Question1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labtest2/Question2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labtest2/Question3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labtest2/Question4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labtest3/Question1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labtest3/Question2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labtest3/Question3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w11_oop/Circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w11_oop/student.py" afterDir="false" />
+    <list default="true" id="f1a1207a-9310-4793-8b94-50d66cf35fad" name="Changes" comment="update week11 and lab tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,67 +33,69 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.AreaOfACircle.executor": "Run",
-    "Python.AreaOfATriangle.executor": "Run",
-    "Python.Circle.executor": "Run",
-    "Python.Clock.executor": "Run",
-    "Python.CollatzSequence.executor": "Run",
-    "Python.CompoundInterest.executor": "Run",
-    "Python.CopyFile.executor": "Run",
-    "Python.CountLetter.executor": "Run",
-    "Python.Digits.executor": "Run",
-    "Python.DrawingCircle.executor": "Run",
-    "Python.EnglishToPirate.executor": "Run",
-    "Python.EquilateralTriangle.executor": "Run",
-    "Python.Even.executor": "Run",
-    "Python.FilterDictionary.executor": "Run",
-    "Python.FilterEvenNumber.executor": "Run",
-    "Python.HelloWorld.executor": "Run",
-    "Python.Hexagon.executor": "Run",
-    "Python.LeapYear.executor": "Run",
-    "Python.MaxValue.executor": "Run",
-    "Python.MessageFromTeacher.executor": "Run",
-    "Python.MultiplicationTable.executor": "Run",
-    "Python.Octagon.executor": "Run",
-    "Python.Odd.executor": "Run",
-    "Python.OddOrEven.executor": "Run",
-    "Python.Pattern.executor": "Run",
-    "Python.Polygons.executor": "Run",
-    "Python.PrimeNumber.executor": "Run",
-    "Python.Print1000Times.executor": "Run",
-    "Python.PrintMessage.executor": "Run",
-    "Python.RandomNumber.executor": "Run",
-    "Python.ReadMessage.executor": "Run",
-    "Python.RemoveLetter.executor": "Run",
-    "Python.RemoveSubstring.executor": "Run",
-    "Python.ReverseString.executor": "Run",
-    "Python.S3974735.executor": "Run",
-    "Python.SortingAlphabetically.executor": "Run",
-    "Python.Square.executor": "Run",
-    "Python.SquareOfEvenNumber.executor": "Run",
-    "Python.SquareOfNumber.executor": "Run",
-    "Python.Star.executor": "Run",
-    "Python.SubstitutionCipher.executor": "Run",
-    "Python.SubstitutionDecipher.executor": "Run",
-    "Python.Triangle.executor": "Run",
-    "Python.TwoDimensionalArray.executor": "Run",
-    "Python.WriteMessage.executor": "Run",
-    "Python.circle.executor": "Run",
-    "Python.student.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.AreaOfACircle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AreaOfATriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Clock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CollatzSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CompoundInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CopyFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CountLetter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Digits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DrawingCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EnglishToPirate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EquilateralTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Even.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FilterDictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FilterEvenNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hexagon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MaxValue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MessageFromTeacher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Octagon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OddOrEven.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polygons.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Print1000Times.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrintMessage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RandomNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReadMessage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RemoveLetter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RemoveSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S3974735.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SortingAlphabetically.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SquareOfEvenNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SquareOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Star.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SubstitutionCipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SubstitutionDecipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TwoDimensionalArray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WriteMessage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\learn_python_rmit\w9_Files" />
@@ -115,7 +104,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+        <option value="bundled-python-sdk-eebebe6c2be4-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15325.20" />
       </set>
     </attachedChunks>
   </component>
@@ -128,6 +117,11 @@
       <option name="presentableId" value="Default" />
       <updated>1709169088940</updated>
       <workItem from="1709169090752" duration="2939000" />
+      <workItem from="1718099335160" duration="315000" />
+      <workItem from="1718239035254" duration="59000" />
+      <workItem from="1718239135989" duration="97000" />
+      <workItem from="1718276870108" duration="34000" />
+      <workItem from="1718429999366" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="update week1">
       <option name="closed" value="true" />
@@ -228,6 +222,7 @@
     <SUITE FILE_PATH="coverage/learn_python_rmit$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1709170840763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w1_introduction" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Square.coverage" NAME="Square Coverage Results" MODIFIED="1709172460898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Star.coverage" NAME="Star Coverage Results" MODIFIED="1709172480339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$Test.coverage" NAME="Test Coverage Results" MODIFIED="1718239141089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$S3974735.coverage" NAME="S3974735 Coverage Results" MODIFIED="1709172370483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Multiplication.coverage" NAME="Multiplication Coverage Results" MODIFIED="1709173236257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w5_recursion" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$AreaOfATriangle.coverage" NAME="AreaOfATriangle Coverage Results" MODIFIED="1709171428981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2_simple_python_data" />
