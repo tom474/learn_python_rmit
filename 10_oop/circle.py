@@ -20,10 +20,10 @@ class Circle(object):
 
 def main():
     """Main program"""
-    circy = Circle(11)
-    print(circy.get_area())
-    circy = Circle(4.44)
-    print(circy.get_perimeter())
+    circle = Circle(11)
+    print(circle.get_area())
+    circle = Circle(4.44)
+    print(circle.get_perimeter())
 
 
 main()

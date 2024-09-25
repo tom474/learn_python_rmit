@@ -4,8 +4,90 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1a1207a-9310-4793-8b94-50d66cf35fad" name="Changes" comment="update week11 and lab tests">
+    <list default="true" id="f1a1207a-9310-4793-8b94-50d66cf35fad" name="Changes" comment="Modify the filename">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_simple_python_data/circle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_simple_python_data/collatz_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_simple_python_data/compound_interest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_simple_python_data/triangle_area.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labtest1/question_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labtest1/question_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labtest1/question_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labtest1/question_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labtest2/question_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labtest2/question_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labtest2/question_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labtest2/question_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labtest3/question_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labtest3/question_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labtest3/question_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labtest3/question_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labtest3/stock_data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w10_dictionaries/count_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_dictionaries/count_letter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w10_dictionaries/english_to_pirate.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_dictionaries/english_to_pirate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w10_dictionaries/english_to_pirate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/09_dictionaries/english_to_pirate.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w10_dictionaries/filter_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_dictionaries/filter_dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w10_dictionaries/max_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_dictionaries/max_value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w11_oop/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_oop/circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w11_oop/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_oop/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_introduction/hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_introduction/hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1_introduction/triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_introduction/triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2_simple_python_data/area_of_a_circle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2_simple_python_data/area_of_a_triangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2_simple_python_data/collatz_sequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2_simple_python_data/compound_interest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2_simple_python_data/vacation_return_day.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_simple_python_data/vacation_return_day.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3_python_modules/clock.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_python_modules/clock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3_python_modules/equilateral_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_python_modules/equilateral_triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3_python_modules/hexagon.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_python_modules/hexagon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3_python_modules/octagon.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_python_modules/octagon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3_python_modules/polygons.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_python_modules/polygons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3_python_modules/print_1000_times.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_python_modules/print_1000_times.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3_python_modules/random_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_python_modules/random_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3_python_modules/s3974735.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_python_modules/s3974735.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3_python_modules/square.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_python_modules/square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3_python_modules/star.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_python_modules/star.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3_python_modules/vietnamese_flag.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_python_modules/vietnamese_flag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w4_function_iteration_selection/even.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_function_iteration_selection/even.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w4_function_iteration_selection/leap_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_function_iteration_selection/leap_year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w4_function_iteration_selection/odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_function_iteration_selection/odd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w4_function_iteration_selection/odd_or_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_function_iteration_selection/odd_or_even.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w4_function_iteration_selection/pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_function_iteration_selection/pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w4_function_iteration_selection/prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_function_iteration_selection/prime_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w5_recursion/collatz.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_recursion/collatz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w5_recursion/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_recursion/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w5_recursion/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_recursion/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w5_recursion/harmonic.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_recursion/harmonic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w5_recursion/multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_recursion/multiplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w5_recursion/pentagonal_shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_recursion/pentagonal_shape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w5_recursion/power.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_recursion/power.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w5_recursion/triangular_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_recursion/triangular_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w6_strings/digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_strings/digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w6_strings/multiplicationTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_strings/multiplication_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w6_strings/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_strings/palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w6_strings/remove_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_strings/remove_letter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w6_strings/remove_substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_strings/remove_substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w6_strings/reverse_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_strings/reverse_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w6_strings/substitution_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_strings/substitution_cipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w6_strings/substitution_decipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_strings/substitution_decipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w6_strings/what_is_the_output.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_strings/what_is_the_output.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w8_lists/filter_even_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_lists/filter_even_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w8_lists/sorting_alphabetically.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_lists/sorting_alphabetically.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w8_lists/square_of_even_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_lists/square_of_even_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w8_lists/square_of_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_lists/square_of_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w8_lists/square_of_odd_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_lists/square_of_odd_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w8_lists/two_dimensional_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_lists/two_dimensional_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w9_files/append_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_files/append_message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w9_files/copy_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_files/copy_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w9_files/drawing/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_files/drawing/circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w9_files/drawing_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_files/drawing_circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w9_files/message_from_teacher.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_files/message_from_teacher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w9_files/messages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/08_files/messages.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w9_files/read_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_files/read_message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w9_files/teacher/messages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/08_files/teacher/messages.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w9_files/teacher/new_messages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/08_files/teacher/new_messages.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w9_files/write_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_files/write_message.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +104,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -33,69 +118,75 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.AreaOfACircle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.AreaOfATriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Clock.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CollatzSequence.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CompoundInterest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CopyFile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CountLetter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Digits.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DrawingCircle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EnglishToPirate.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EquilateralTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Even.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FilterDictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FilterEvenNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Hexagon.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MaxValue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MessageFromTeacher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Octagon.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Odd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OddOrEven.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Polygons.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Print1000Times.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PrintMessage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RandomNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ReadMessage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RemoveLetter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RemoveSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Python.S3974735.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SortingAlphabetically.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Square.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SquareOfEvenNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SquareOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Star.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SubstitutionCipher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SubstitutionDecipher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TwoDimensionalArray.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WriteMessage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.circle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.student.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.AreaOfACircle.executor": "Run",
+    "Python.AreaOfATriangle.executor": "Run",
+    "Python.Circle.executor": "Run",
+    "Python.Clock.executor": "Run",
+    "Python.CollatzSequence.executor": "Run",
+    "Python.CompoundInterest.executor": "Run",
+    "Python.CopyFile.executor": "Run",
+    "Python.CountLetter.executor": "Run",
+    "Python.Digits.executor": "Run",
+    "Python.DrawingCircle.executor": "Run",
+    "Python.EnglishToPirate.executor": "Run",
+    "Python.EquilateralTriangle.executor": "Run",
+    "Python.Even.executor": "Run",
+    "Python.FilterDictionary.executor": "Run",
+    "Python.FilterEvenNumber.executor": "Run",
+    "Python.HelloWorld.executor": "Run",
+    "Python.Hexagon.executor": "Run",
+    "Python.LeapYear.executor": "Run",
+    "Python.MaxValue.executor": "Run",
+    "Python.MessageFromTeacher.executor": "Run",
+    "Python.MultiplicationTable.executor": "Run",
+    "Python.Octagon.executor": "Run",
+    "Python.Odd.executor": "Run",
+    "Python.OddOrEven.executor": "Run",
+    "Python.Pattern.executor": "Run",
+    "Python.Polygons.executor": "Run",
+    "Python.PrimeNumber.executor": "Run",
+    "Python.Print1000Times.executor": "Run",
+    "Python.PrintMessage.executor": "Run",
+    "Python.RandomNumber.executor": "Run",
+    "Python.ReadMessage.executor": "Run",
+    "Python.RemoveLetter.executor": "Run",
+    "Python.RemoveSubstring.executor": "Run",
+    "Python.ReverseString.executor": "Run",
+    "Python.S3974735.executor": "Run",
+    "Python.SortingAlphabetically.executor": "Run",
+    "Python.Square.executor": "Run",
+    "Python.SquareOfEvenNumber.executor": "Run",
+    "Python.SquareOfNumber.executor": "Run",
+    "Python.Star.executor": "Run",
+    "Python.SubstitutionCipher.executor": "Run",
+    "Python.SubstitutionDecipher.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.Triangle.executor": "Run",
+    "Python.TwoDimensionalArray.executor": "Run",
+    "Python.WriteMessage.executor": "Run",
+    "Python.circle.executor": "Run",
+    "Python.circle_area.executor": "Run",
+    "Python.clock.executor": "Run",
+    "Python.s3974735.executor": "Run",
+    "Python.student.executor": "Run",
+    "Python.vacation_return_day.executor": "Run",
+    "Python.vietnamese flag.executor": "Run",
+    "Python.vietnamese_flag.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\learn_python_rmit\w9_Files" />
@@ -104,7 +195,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-eebebe6c2be4-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15325.20" />
+        <option value="bundled-python-sdk-c69650fc56ca-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15619.17" />
       </set>
     </attachedChunks>
   </component>
@@ -122,6 +213,10 @@
       <workItem from="1718239135989" duration="97000" />
       <workItem from="1718276870108" duration="34000" />
       <workItem from="1718429999366" duration="11000" />
+      <workItem from="1718430471747" duration="1080000" />
+      <workItem from="1718441823661" duration="2000" />
+      <workItem from="1727190422263" duration="1545000" />
+      <workItem from="1727230009441" duration="1566000" />
     </task>
     <task id="LOCAL-00001" summary="update week1">
       <option name="closed" value="true" />
@@ -187,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709188837601</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Modify the filename">
+      <option name="closed" value="true" />
+      <created>1718431482856</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718431482856</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +306,8 @@
     <MESSAGE value="update week8" />
     <MESSAGE value="update week9" />
     <MESSAGE value="update week10" />
-    <option name="LAST_COMMIT_MESSAGE" value="update week10" />
+    <MESSAGE value="Modify the filename" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify the filename" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/learn_python_rmit$Pattern.coverage" NAME="Pattern Coverage Results" MODIFIED="1709172791594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w4_function_iteration_selection" />
@@ -215,6 +319,7 @@
     <SUITE FILE_PATH="coverage/learn_python_rmit$ReverseString.coverage" NAME="ReverseString Coverage Results" MODIFIED="1709174961264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w6_strings" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Clock.coverage" NAME="Clock Coverage Results" MODIFIED="1709172129557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$CopyFile.coverage" NAME="CopyFile Coverage Results" MODIFIED="1709187871296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w9_Files" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$vietnamese_flag.coverage" NAME="vietnamese flag Coverage Results" MODIFIED="1727231288985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../RMIT/Semester 1 - Introduction to Programming/Lab Activities/WEEK 3/2. Answers" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$AreaOfACircle.coverage" NAME="AreaOfACircle Coverage Results" MODIFIED="1709171371095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2_simple_python_data" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$RemoveSubstring.coverage" NAME="RemoveSubstring Coverage Results" MODIFIED="1709174927445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w6_strings" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$circle.coverage" NAME="circle Coverage Results" MODIFIED="1709188019397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w9_Files/teacher/drawing" />
@@ -223,8 +328,8 @@
     <SUITE FILE_PATH="coverage/learn_python_rmit$Square.coverage" NAME="Square Coverage Results" MODIFIED="1709172460898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Star.coverage" NAME="Star Coverage Results" MODIFIED="1709172480339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Test.coverage" NAME="Test Coverage Results" MODIFIED="1718239141089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learn_python_rmit$S3974735.coverage" NAME="S3974735 Coverage Results" MODIFIED="1709172370483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Multiplication.coverage" NAME="Multiplication Coverage Results" MODIFIED="1709173236257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w5_recursion" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$S3974735.coverage" NAME="S3974735 Coverage Results" MODIFIED="1709172370483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$AreaOfATriangle.coverage" NAME="AreaOfATriangle Coverage Results" MODIFIED="1709171428981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2_simple_python_data" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$MessageFromTeacher.coverage" NAME="MessageFromTeacher Coverage Results" MODIFIED="1709187729006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w9_Files" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$LeapYear.coverage" NAME="LeapYear Coverage Results" MODIFIED="1709172749990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w4_function_iteration_selection" />
@@ -239,11 +344,13 @@
     <SUITE FILE_PATH="coverage/learn_python_rmit$FilterEvenNumber.coverage" NAME="FilterEvenNumber Coverage Results" MODIFIED="1709175197493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w8_Lists" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$SquareOfEvenNumber.coverage" NAME="SquareOfEvenNumber Coverage Results" MODIFIED="1709187317054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w8_Lists" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Fibonacci.coverage" NAME="Fibonacci Coverage Results" MODIFIED="1709173188938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w5_recursion" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$s3974735.coverage" NAME="s3974735 Coverage Results" MODIFIED="1727231066438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Odd.coverage" NAME="Odd Coverage Results" MODIFIED="1709172697787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w4_function_iteration_selection" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$CompoundInterest.coverage" NAME="CompoundInterest Coverage Results" MODIFIED="1709171540116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2_simple_python_data" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$SubstitutionCipher.coverage" NAME="SubstitutionCipher Coverage Results" MODIFIED="1709175005457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w6_strings" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$RandomNumber.coverage" NAME="RandomNumber Coverage Results" MODIFIED="1709172341243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Collatz.coverage" NAME="Collatz Coverage Results" MODIFIED="1709173094556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w5_recursion" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$circle_area.coverage" NAME="circle_area Coverage Results" MODIFIED="1727230181836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2_simple_python_data" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$SquareOfNumber.coverage" NAME="SquareOfNumber Coverage Results" MODIFIED="1709187376577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w8_Lists" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Triangle.coverage" NAME="Triangle Coverage Results" MODIFIED="1709171384164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w1_introduction" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$EnglishToPirate.coverage" NAME="EnglishToPirate Coverage Results" MODIFIED="1709188721682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w10_dictionaries" />
@@ -252,6 +359,7 @@
     <SUITE FILE_PATH="coverage/learn_python_rmit$Hexagon.coverage" NAME="Hexagon Coverage Results" MODIFIED="1709172195237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Print1000Times.coverage" NAME="Print1000Times Coverage Results" MODIFIED="1709172316653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$DrawingCircle.coverage" NAME="DrawingCircle Coverage Results" MODIFIED="1709187986043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w9_Files/teacher" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$clock.coverage" NAME="clock Coverage Results" MODIFIED="1727230799366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$TriangularNumber.coverage" NAME="TriangularNumber Coverage Results" MODIFIED="1709173322856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w5_recursion" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$FilterDictionary.coverage" NAME="FilterDictionary Coverage Results" MODIFIED="1709188785684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w10_dictionaries" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$CollatzSequence.coverage" NAME="CollatzSequence Coverage Results" MODIFIED="1709171474584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2_simple_python_data" />
@@ -260,6 +368,7 @@
     <SUITE FILE_PATH="coverage/learn_python_rmit$Octagon.coverage" NAME="Octagon Coverage Results" MODIFIED="1709172215299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3_python_modules" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$student.coverage" NAME="student Coverage Results" MODIFIED="1709188928380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w11_oop" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Power.coverage" NAME="Power Coverage Results" MODIFIED="1709173284001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w5_recursion" />
+    <SUITE FILE_PATH="coverage/learn_python_rmit$vacation_return_day.coverage" NAME="vacation_return_day Coverage Results" MODIFIED="1727230736905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_simple_python_data" />
     <SUITE FILE_PATH="coverage/learn_python_rmit$Even.coverage" NAME="Even Coverage Results" MODIFIED="1709172691744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w4_function_iteration_selection" />
   </component>
 </project>
